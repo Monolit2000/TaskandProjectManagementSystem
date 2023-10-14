@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskandProjectManagementSystem.API", "TaskandProjectManagementSystem\TaskandProjectManagementSystem.API.csproj", "{9BF03781-21AB-4B4D-8260-F7C80AE629CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskandProjectManagementSystem.Domain", "TaskandProjectManagementSystem.Domain\TaskandProjectManagementSystem.Domain.csproj", "{4E340E91-775F-478D-BBD7-A4C8D8A6A52B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskandProjectManagementSystem.Application", "TaskandProjectManagementSystem.Application\TaskandProjectManagementSystem.Application.csproj", "{EAFC158D-6B71-4C0E-94ED-92CA6A07B2FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskandProjectManagementSystem.Persistence", "TaskandProjectManagementSystem.Persistence\TaskandProjectManagementSystem.Persistence.csproj", "{DDFD147D-4A07-4AD1-AF72-E6ABB1E9309C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskandProjectManagementSystem.Identyty", "TaskandProjectManagementSystem.Identyty\TaskandProjectManagementSystem.Identyty.csproj", "{3C545087-62EE-4427-87BE-96950394BFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF03781-21AB-4B4D-8260-F7C80AE629CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF03781-21AB-4B4D-8260-F7C80AE629CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF03781-21AB-4B4D-8260-F7C80AE629CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF03781-21AB-4B4D-8260-F7C80AE629CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E340E91-775F-478D-BBD7-A4C8D8A6A52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E340E91-775F-478D-BBD7-A4C8D8A6A52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E340E91-775F-478D-BBD7-A4C8D8A6A52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E340E91-775F-478D-BBD7-A4C8D8A6A52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFC158D-6B71-4C0E-94ED-92CA6A07B2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFC158D-6B71-4C0E-94ED-92CA6A07B2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFC158D-6B71-4C0E-94ED-92CA6A07B2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFC158D-6B71-4C0E-94ED-92CA6A07B2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFD147D-4A07-4AD1-AF72-E6ABB1E9309C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFD147D-4A07-4AD1-AF72-E6ABB1E9309C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFD147D-4A07-4AD1-AF72-E6ABB1E9309C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFD147D-4A07-4AD1-AF72-E6ABB1E9309C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C545087-62EE-4427-87BE-96950394BFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C545087-62EE-4427-87BE-96950394BFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C545087-62EE-4427-87BE-96950394BFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C545087-62EE-4427-87BE-96950394BFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D109D3-5C07-4CD5-A5CE-E2095B2E9CB8}
+	EndGlobalSection
+EndGlobal
